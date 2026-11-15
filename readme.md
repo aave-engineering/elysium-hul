@@ -1,5 +1,5 @@
 
-## @phantom/openapi-wallet-service@0.1.0
+## @phantom-app-engineering/openapi-wallet-service@0.1.0
 
 This generator creates Go/TypeScript/JavaScript client that utilizes [axios](https://github.com/axios/axios). The generated Node module can be used in the following environments:
 
