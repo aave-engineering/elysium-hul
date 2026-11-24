@@ -1,5 +1,5 @@
 
-## @hashrocket-engineering/openapi-wallet-service@0.1.0
+## @aave-engineering/openapi-wallet-service@0.1.0
 
 This generator creates Go/TypeScript/JavaScript client that utilizes [axios](https://github.com/axios/axios). The generated Node module can be used in the following environments:
 
@@ -37,7 +37,7 @@ navigate to the folder of your consuming project and run one of the following co
 _published:_
 
 ```
-npm install @hashrocket-engineering/openapi-wallet-service@0.1.0 --save
+npm install @aave-engineering/openapi-wallet-service@0.1.0 --save
 ```
 
 _unPublished (not recommended):_
@@ -60,10 +60,10 @@ Class | Method | HTTP request | Description
 
 
 Authentication schemes defined for the API:
-<a id="x-hashrocket-stamp"></a>
-### x-hashrocket-stamp
+<a id="x-aave-stamp"></a>
+### x-aave-stamp
 
 - **Type**: API key
-- **API key parameter name**: X-hashrocket-Stamp
+- **API key parameter name**: X-aave-Stamp
 - **Location**: HTTP header
 
